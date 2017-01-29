@@ -1,0 +1,4 @@
+name: NewBlock
+type: module
+description: create a new NewBlock
+core: 8.x
